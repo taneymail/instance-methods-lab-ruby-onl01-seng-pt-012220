@@ -5,4 +5,6 @@ def #bark
   puts "Woof!"
 end 
 
-fido = Dog.new
+def #sitting
+  puts "The Dog is sitting."
+end 
