@@ -1,10 +1,10 @@
 class Dog 
 end
 
-def #bark
+def @bark
   puts "Woof!"
 end 
 
-def #sitting
+def @sitting
   puts "The Dog is sitting."
 end 
