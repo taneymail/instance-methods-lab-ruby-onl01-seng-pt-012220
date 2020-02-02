@@ -5,4 +5,4 @@ def bark
   puts "Woof!"
 end 
 
-fido=
+fido = Dog.new
